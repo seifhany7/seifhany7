@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @seifhany7
+- 👀 I’m interested in Front-end web development
+- 🌱 I’m currently learning AngularJS
+- 💞️ I’m looking to collaborate on Web development
+- 📫 How to reach me email: seifhany7@outlook.com | linkedin: https://www.linkedin.com/in/seifhany/
